@@ -9,6 +9,7 @@
   - [Diagnostic settings](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings)
 
 - [ ] __create baseline for resources__
+  - [Baseline policies](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-baseline-protection)
 
   - [Lynda video](https://www.lynda.com/Azure-tutorials/Create-baseline-resources/782139/5010821-4.html)
 
