@@ -1,5 +1,5 @@
 # AZ-300 Exam
-This note is based on [Exam AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/en-us/learn/certifications/exams/az-300). Please review this page from time to time as it is always updated.
+This note is based on [Exam AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/en-us/learn/certifications/exams/az-300). Please review this page from time to time as it is always updated. Check your knowledge with the exam skills outline can be downloaded on the same page.
 
 The distribution of questions based on weighted percetages are as follows:
 
