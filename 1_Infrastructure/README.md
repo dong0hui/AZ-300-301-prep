@@ -2,11 +2,12 @@
 
 ## Analyze resource utilization and consumption
 
-[Section Documentation on Azure Docs](https://docs.microsoft.com/en-gb/azure/azure-monitor/)
-
 - [ ] __configure diagnostic settings on resources__
 
   - [Diagnostic settings](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings)
+  - Fan out Platform logs to various destinations;
+  - Destinations include Log Analytics Workspace, Event hubs, and Azure storage account
+  - One diagnostic setting has 1 destination. Up to 5 settings for each resource
 
 - [ ] __create baseline for resources__
   - [Baseline policies](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-baseline-protection)
