@@ -2,6 +2,7 @@
 This note is based on [Exam AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/en-us/learn/certifications/exams/az-300). Please review this page from time to time as it is always updated.
 
 The distribution of questions based on weighted percetages are as follows:
+
 | Area                                        | Percentage    |
 | ------------------------------------------- |:-------------:|
 | Deploy and configure infrastructure         | 25-30%        |
