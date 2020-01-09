@@ -30,4 +30,4 @@ Finish 10 learning paths covering both AZ-300 and AZ-301. By learning the follow
 ## [Architect migration, business continuity, and disaster recovery in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/)
 
 # Practice
-Architect should have experience and moderate knowledge of Azure Developer and Azure IT Admin skills. If you have the experience of developing codes with Azure, this part should be easy. Otherwise, practice the Labs, especially operations on Portal.
+Architect should have experience and moderate knowledge of Azure Developer and Azure IT Admin skills. If you have the experience of developing codes with Azure, this part should be easy. Otherwise, practice in the Sandbox along the learning paths, which are extremely good in my view (I gave 5 stars to all of them). The Sandbox is free, and your subsciption will not be charged.
