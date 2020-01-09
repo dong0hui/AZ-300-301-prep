@@ -20,7 +20,7 @@ Finish 10 learning paths covering both AZ-300 and AZ-301. By learning the follow
 ## [Architect infrastructure operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/)
 ## [Architect a data platform in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-data-platform/)
 ## [Architect message brokering and serverless applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-messaging-serverless/)
-1. Azure Functions (Function App)
+1. Function App
 2. Logic Apps
 3. Event Hubs
 4. Even Grid
