@@ -26,6 +26,8 @@ Finish 10 learning paths covering both AZ-300 and AZ-301. By learning the follow
 4. Even Grid
 5. Service Bus
 ## [Architect modern applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-modern-apps/)
+1. Docker Basics and Azure Container Registry
+2. Azure Container Instance
 ## [Architect API integration in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-api-integration/)
 ## [Architect migration, business continuity, and disaster recovery in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/)
 
